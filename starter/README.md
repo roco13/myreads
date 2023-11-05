@@ -1,21 +1,14 @@
 # MyReads Project
 
-This is the final project for the course React Fundamentals. The starter template was refactored into the following React Components.
-App.js
-Search.js
-BookshelfClassifier.js
-Shelf.js
-Bookshelf.js
-Book.js
-UpdateBook.js
+This is the final project for the course React Fundamentals. 
 
+## Install
+`cd starter`
+`npm install`
 
-## TL;DR
+## start
 
-To get started developing right away:
-
-- install all project dependencies with `npm install`
-- start the development server with `npm start`
+`npm start`
 
 ## What You're Getting
 
