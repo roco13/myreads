@@ -4,6 +4,15 @@ This is the starter template for the final assessment project for Udacity's Reac
 
 Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) to bootstrap the project.
 
+## Install
+`cd starter`
+`npm install`
+
+## start
+
+`npm start`
+
+
 ## TL;DR
 
 To get started developing right away:
